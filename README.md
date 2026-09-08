@@ -14,9 +14,9 @@ Kolkata, India
 
 ## About
 
-I'm a Computer Science Engineering student specializing in Cyber Security, with a focus on frontend development. My interests sit at the intersection of building clean, usable interfaces and understanding the security considerations behind them.
+I'm a Computer Science Engineering student specializing in Cyber Security, with a core focus on frontend development. I'm currently expanding into AI/ML, Deep Learning, Generative AI, and Agentic AI — exploring how intelligent systems can be built responsibly and securely.
 
-Currently building **GhostChat**, a secure anonymous communication platform, while continuing to strengthen my foundation in modern web development and application security.
+Currently building **GhostChat**, a secure anonymous communication platform, while strengthening my foundation across web development, application security, and applied AI.
 
 <br>
 
@@ -24,8 +24,9 @@ Currently building **GhostChat**, a secure anonymous communication platform, whi
 
 | Category | Technologies |
 |---|---|
-| Languages | HTML5, CSS3, JavaScript |
+| Languages | HTML5, CSS3, JavaScript, Python |
 | Frameworks & Libraries | React, Node.js |
+| AI / ML | Machine Learning, Deep Learning, Generative AI, Agentic AI |
 | Tools | Git, GitHub |
 
 <br>
@@ -37,6 +38,12 @@ Secure, anonymous communication platform focused on privacy-first messaging.
 
 **[Portfolio](https://github.com/akshay-chanda/Akshay-Chanda-Portfolio)**
 Personal portfolio site — animated hero, filterable project grid, and a working contact form. [Live demo →](https://akshay-chanda-portfolio.vercel.app/)
+
+<br>
+
+## Currently Exploring
+
+Machine Learning fundamentals · Deep Learning · Generative AI · Agentic AI systems
 
 <br>
 
